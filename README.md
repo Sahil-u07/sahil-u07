@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/Sahil-u07">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=👋+Hey%2C+I'm+Sahil+Lenka!;🎓+CSE+(AIML)+Undergraduate;💻+Full-Stack+Web+Developer;🌱+React+%7C+Node.js+%7C+Next.js;🚀+while(alive)+%7B+code();+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=👋+Hey%2C+I'm+Sahil+Lenka!;🎓+CSE+(AIML)+Undergraduate;💻+Full-Stack+Web+Developer;🌱+React+%7C+Node.js+%7C+Next.js;while(alive)+%7B+code()+%7D;" alt="Typing SVG" />
 </a>
 
 
