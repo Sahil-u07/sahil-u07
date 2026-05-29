@@ -28,7 +28,7 @@
 const sahil: Developer = {
   name:      "Sahil Lenka",
   alias:     "Sahil-u07",
-  degree:    "B.Tech — CSE (AI/ML) 🎓",
+  degree:    "B.Tech — CSE (AI/ML) ",
   location:  "India 🇮🇳",
 
   building:  ["Full-stack web apps", "OSS contributions"],
@@ -36,7 +36,7 @@ const sahil: Developer = {
   collab:    ["Beginner-friendly OSS", "Web Dev Projects"],
 
   ask_me:    ["HTML", "CSS", "JavaScript", "APIs", "React"],
-  fun_fact:  "Coffee ☕ + Ideas 💡 → Web Apps 🚀",
+  fun_fact:  "Coffee + Ideas → Web Apps",
 
   motto: "while (alive) { code(); eat(); sleep(); }",
 };
