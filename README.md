@@ -4,7 +4,7 @@ I'm a 20 y/o CS Junior, passionate about the future of technology, solving meani
 
 ## My Journey So Far
 
-* Started with the standard path: web dev fundamentals, then Python, then straight into contributing to real codebases.
+* Started coding through web development fundamentals and Python, then got pulled into open source and started attending hackathons.
 * Chased the hackathon circuit hard, finals and podiums included.
 
   <details>
