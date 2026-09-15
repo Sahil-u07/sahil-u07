@@ -22,14 +22,17 @@ I'm a 20 y/o CS Junior, passionate about the future of technology, solving meani
 * Interned as a Software Development Intern at [SundarOne](https://www.sundaronehostel.com/) (May-Aug 2026), where I integrated Razorpay and led UX iteration cycles that pushed bookings up 15% and retention up 20%.
 * Built and deployed [ProjectMUJToppers](https://mujtoppers.in), a full-stack platform with auth, an admin dashboard, and student database integration, live and running today.
 
-## Stack
-
-Python, JavaScript, TypeScript, C++, Java · React, Node.js, Express, Flask, FastAPI · MongoDB, PostgreSQL · Git, Docker, CI/CD
-
-## Let's Connect 🚀
-
+I've worked across the MERN stack, Python tooling, and networked medical imaging systems, picking up security auditing along the way. I'm currently locked in, going deeper into open source and sharpening my full-stack architecture skills.
+ 
 Feel free to connect with me on my socials, always open to chat, collaborate, or just geek out over cool tech stuff.
 
-📫 [sahillenka44@gmail.com](mailto:sahillenka44@gmail.com)
-🐙 [github.com/Sahil-u07](https://github.com/Sahil-u07)
-💼 [linkedin.com/in/sahil-lenka-3608a2311](https://linkedin.com/in/sahil-lenka-3608a2311)
+## Stack
+ 
+Python, JavaScript, TypeScript, C++, Java · React, Node.js, Express, Flask, FastAPI · MongoDB, PostgreSQL · Git, Docker, CI/CD
+ 
+ [sahillenka44@gmail.com](mailto:sahillenka44@gmail.com)
+ 
+ [github.com/Sahil-u07](https://github.com/Sahil-u07)
+ 
+ [linkedin.com/in/sahil-lenka-3608a2311](https://linkedin.com/in/sahil-lenka-3608a2311)
+ 
