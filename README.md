@@ -17,10 +17,10 @@ I'm a 20 y/o CS Junior, passionate about the future of technology, solving meani
   5. 3x Hackathon Finalist, across university-level and national hackathons
 
   </details>
-* Built my open source identity around [KathiraveluLab](https://github.com/KathiraveluLab)'s medical imaging and infra projects, racking up 30+ merged PRs across Diomede, Beehive, and Concore.
-* Web Development Intern at IOTA Studio AI (Apr-Aug 2025), shipping their production website end to end on React and Node.
-* Software Development Intern at [SundarOne](https://www.sundaronehostel.com/) (May-Aug 2026), integrating Razorpay and running UX iteration cycles that pushed bookings up 15% and retention up 20%.
-* Built and deployed [ProjectMUJToppers](https://mujtoppers.in), a full-stack platform (React, Node, MongoDB) with auth, an admin dashboard, and a student database.
+* Contributed to KathiraveluLab and racked up 30+ merged PRs across Diomede, Beehive, and Concore, real maintainer-reviewed work on DICOM routing, security tooling, and infra.
+* Interned as a Web Development Intern at IOTA Studio AI (Apr-Aug 2025), where I have built and shipped their production website end to end on React and Node.
+* Interned as a Software Development Intern at [SundarOne](https://www.sundaronehostel.com/) (May-Aug 2026), where I integrated Razorpay and led UX iteration cycles that pushed bookings up 15% and retention up 20%.
+* Built and deployed [ProjectMUJToppers](https://mujtoppers.in), a full-stack platform with auth, an admin dashboard, and student database integration, live and running today.
 
 ## Stack
 
