@@ -30,7 +30,7 @@ Feel free to connect with me on my socials, always open to chat, collaborate, or
  
 Python, JavaScript, TypeScript, C++, Java · React,
 Node.js, Express, Flask, FastAPI · MongoDB, PostgreSQL · Git, 
-Docker, CI/CD
+Docker, CI/CD..
  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahil-u07)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahillenka44@gmail.com)
