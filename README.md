@@ -1,4 +1,4 @@
-# Hey there 👋
+# Hey there 👋..
 
 I'm a 20 y/o CS Junior, passionate about the future of technology, solving meaningful problems, and constantly learning along the way.
 
